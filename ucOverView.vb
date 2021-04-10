@@ -1,0 +1,7 @@
+﻿Public Class ucOverView
+	Private Sub ucOverView_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+	End Sub
+
+
+End Class
